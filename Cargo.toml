@@ -1,0 +1,2 @@
+[workspace]
+members = ["xtask", "log-rate-limit", "log-rate-limit-common"]

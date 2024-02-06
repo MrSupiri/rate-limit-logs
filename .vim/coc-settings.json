@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["Cargo.toml", "log-rate-limit-ebpf/Cargo.toml"]
+}
